@@ -1,0 +1,9 @@
+C:\Users\Саша\source\repos\Sklad\Sklad\bin\Debug\Sklad.exe.config
+C:\Users\Саша\source\repos\Sklad\Sklad\bin\Debug\Sklad.exe
+C:\Users\Саша\source\repos\Sklad\Sklad\bin\Debug\Sklad.pdb
+C:\Users\Саша\source\repos\Sklad\Sklad\obj\Debug\Sklad.Form1.resources
+C:\Users\Саша\source\repos\Sklad\Sklad\obj\Debug\Sklad.Properties.Resources.resources
+C:\Users\Саша\source\repos\Sklad\Sklad\obj\Debug\Sklad.csproj.GenerateResource.cache
+C:\Users\Саша\source\repos\Sklad\Sklad\obj\Debug\Sklad.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\Sklad\Sklad\obj\Debug\Sklad.exe
+C:\Users\Саша\source\repos\Sklad\Sklad\obj\Debug\Sklad.pdb
